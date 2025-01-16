@@ -14,7 +14,7 @@ public class main2
 {
 	public static void main(String[] args) {
 		GetterSetter obj= new GetterSetter();
-		obj.setname("Yashasvi Grover");	
+		obj.setname("Prathamesh");	
 		System.out.println(obj.getname());
 }
 }
