@@ -1,6 +1,4 @@
-
-
- class GetterSetter{
+class GetterSetter{
      private String name;
      public void setname(String N){
          this.name=N;
